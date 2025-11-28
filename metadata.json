@@ -1,0 +1,7 @@
+{
+  "name": " NutriAI Elite nova VER 1.9",
+  "description": "Seu nutricionista pessoal com Inteligência Artificial. Planos alimentares, análise de alimentos via câmera, treinos inteligentes e dicas diárias.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
